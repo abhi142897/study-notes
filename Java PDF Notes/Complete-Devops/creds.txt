@@ -2,10 +2,6 @@ AWS -
 kulkarni09abhishek@gmail.com
 Bhaggudi@2814
 
-AWS configure -
-access key - AKIA6ODUZCSQTWTXE75J
-secret key - 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
-
 Docker hub ->
 User - Abhishek159
 Pwd - Default@786
