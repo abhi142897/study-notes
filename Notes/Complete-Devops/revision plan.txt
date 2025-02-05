@@ -1,0 +1,9 @@
+1) Start with Linux. Go through notebook notes and important commands/flags pdf.
+2) Git from devops notes (prints).
+3) Docker from notebook notes, GitHub notes(abhishek veermalla) and quick pointers (pdf).
+4) K8s notes and misc.
+5) For Ansible, read all files from folder
+6) Terraform from GitHub notes(abhishek veermalla) and then go through quick notes pdf.
+7) Monitoring and o11y from pdf notes.
+8) AWS - yet to prepare notes.
+9) Revisit previous interview questions.
