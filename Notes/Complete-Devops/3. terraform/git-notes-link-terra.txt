@@ -1,1 +1,4 @@
 https://github.com/iam-veeramalla/terraform-zero-to-hero
+
+
+https://www.zero2devops.com/blog/ultimate-guide-to-terraform

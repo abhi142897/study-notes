@@ -1,0 +1,8 @@
+
+
+Some quick pointers -
+
+-Behavior of touch:
+	If the file does not exist → It creates a new empty file.
+	If the file already exists → It updates the last modified timestamp without changing its contents.
+

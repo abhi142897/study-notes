@@ -1,0 +1,29 @@
+
+Important interview questions ->
+
+01. Explain GITHUB Action workflow file.
+02. What is PDB in Kubernetes.
+03. What is lock file in Terraform
+04. How you can build an Image and push it to the ECR
+05. Spot instances and reserved instances in AWS.
+06. What all AWS services have you used, explain in terms of security.
+07. You have lost the key to access an EC2 server, how will you regain access.
+08. How will you restrict access of a user who has the private key of an EC2 server.
+09. How will you provide access to the S3 bucket .Do you know the S3 bucket policy created, write it down.
+10. Can you write a Terraform script , syntax doesn't matter , creating vpc, subnets and route tables.
+11. Why vpc, subnets and route tables are used.
+12. How will you get back .tfstate file if it gets corrupted in S3.
+13. What is Terraform drift.
+14. If a same person is working on Terraform code how will ensure state locking.
+15. Can you write docker file to install nodejs application explanation the best practices.
+16. What is staging build.
+17. How will you ensure communication between containers in Docker.
+18. Write kubernetes manifest file for database server and mount pvc to it.
+19. Explain architecture of Kubernetes.
+20. Any idea about Helm charts , can you explain where you have used it.
+21. If application is deployed in one AZ, how will you ensure restoration in less time, explain about disaster recovery.
+22. Any idea about service mesh.
+23. What is your strategy to deploy in production, how will you implement it with no downtime.
+24. Do you know about logging and monitoring, how have you configured it.
+25. What way you used to write Pipeline Script.
+26. Are you using SonarQube, do you know how to configure it.
